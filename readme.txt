@@ -1,4 +1,5 @@
 A rudimentary re-creation of some of the fixtures, adapted to work with Bullet (using PyBullet Python bindings)
+Related to https://ipc-sim.github.io/rigid-ipc
 
 Usage on Linux, Windows or MacOS:
 
